@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    margin: 0;
+    margin: 50;
     padding: 0;
 }
 
@@ -48,8 +48,7 @@ nav {
 }
 
 .pic {
-    width: 150px;
-    height: 100px;
+    
     position: absolute;
     top: 0;
     left: 0;
