@@ -79,7 +79,10 @@ a:visited {
     left: 0;
 }
 
-
+.description {
+    justify-items: center;
+    padding-left: 20;
+}
 
 .container {
     max-width: 800px;
