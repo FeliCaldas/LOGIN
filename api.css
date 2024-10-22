@@ -72,12 +72,14 @@ a:visited {
     max-width: 100%;
 }
 
+.pic {
 
-
-.description {
-    justify-items: center;
-    padding-left: 20;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
+
+
 
 .container {
     max-width: 800px;
