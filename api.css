@@ -4,7 +4,7 @@ body {
     padding: 0;
 }
 
-header {
+.cabeca {
     background-color: #6b6b6b;
     color: #fff;
     padding: 20px;
@@ -12,7 +12,7 @@ header {
     position: relative;
 }
 
-header h1 {
+.cabeca h1 {
     margin: 0;
 
 }
