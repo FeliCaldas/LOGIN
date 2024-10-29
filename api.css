@@ -16,6 +16,9 @@ header h1 {
     margin: 0;
 
 }
+header img{
+    position: right;
+}
 
 nav {
     display: inline-block;
